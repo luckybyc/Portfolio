@@ -5,7 +5,7 @@ export const ProjectData = [
       about:
         "Exposing more girls in Tanzania to STEAM careers and amplify their impact first inAfrica and finally the whole world.",
       tags: ["GirlsIn ICT","Hackathon"],
-      demo: "www.shecodesforchange.org",
+      demo: "https://www.shecodesforchange.org/",
       image:
       "https://ipfsoftwares.com/img/work/shecodes.png",
     },
@@ -16,8 +16,8 @@ export const ProjectData = [
       about:
         "Revolutionising all areas of talent management in Africa, an incredible partnership with Niajiri Limited.",
       tags: ["Talent "],
-      demo: "www.niajiri.co.tz",
-      github: "www.example.com",
+      demo: "https://www.niajiri.co.tz",
+      //github: "www.example.com",
       image:
         "https://ipfsoftwares.com/img/work/niajiri.png",
     },

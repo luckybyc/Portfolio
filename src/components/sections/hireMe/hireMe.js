@@ -1,9 +1,15 @@
 import React from 'react'
+import { HireContainer } from '../../StyledElements/hireMe.styledElements'
 
 const HireMe = () => {
     return (
-        <div className="center" >
-            <a href="mailto:luckybyc@gmail.comwww.shecodesforchange.org"> Email me</a>
+        <div>
+             <HireContainer>
+             <h3> Page under maintainance.! </h3>
+            <a href="mailto:luckybyc@gmail.comwww.shecodesforchange.org"> 
+            Email me </a>
+            </HireContainer>
+           
         </div>
     )
 }

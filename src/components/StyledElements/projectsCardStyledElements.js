@@ -77,7 +77,7 @@ export const ProjectTags=styled.div`
   ;
   
 export const ProjectLink=styled.a`
-text-decoration: none;
+    text-decoration: none;
     color: #000;
     `;
 
